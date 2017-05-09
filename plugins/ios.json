@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.onsen.weather"
+        },
+        "cordova-plugin-geolocation": {
+            "GEOLOCATION_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "io.onsen.weather"
+        },
+        "cordova-plugin-settings-hook": {
+            "PACKAGE_NAME": "io.onsen.weather"
+        },
+        "cordova-plugin-pedometer": {
+            "PACKAGE_NAME": "io.onsen.weather"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "io.onsen.weather"
+        }
+    }
+}
